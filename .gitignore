@@ -1,0 +1,9 @@
+# ignore output directories and files
+target/
+.idea/
+*.class
+*.log
+*.iml
+
+# ignore ChromeDriver
+chromedriver
